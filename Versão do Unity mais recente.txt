@@ -1,0 +1,10 @@
+
+Alunos
+
+Eduardo Batista Menezes 
+Leonardo Dias Menezes
+
+Versão 2017.2.0f3
+Versão visual studio 3.4.0.2
+
+ps: Caso dê erro nos scripts, basta abrir os arquivos no visual studio, ele vai arrumar automaticamente e voltará a funcionar tudo Ok.
